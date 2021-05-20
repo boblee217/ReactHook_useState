@@ -23,7 +23,7 @@ export default function App() {
       <span>{counter}</span>
       <button onClick={increase}>+</button>
       <p>{sayHi}</p>
-      <button onClick={whenClicked}>onClick</button>
+      <button onClick={whenClicked}>Click To Say Hi</button>
     </div>
   );
 }
